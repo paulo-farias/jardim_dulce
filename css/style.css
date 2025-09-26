@@ -3,6 +3,8 @@
 
 
 
+/* HTML */
+
 /*** BODY ***/
 body {
     font-family: 'Roboto', sans-serif;
@@ -425,6 +427,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 	color: #161616;
 	text-decoration: none;
 }
+
+.copyright > p {
+     text-align: center;
+}
+
 /*** THE END FOOTER LINKS ***/
 
 /*** BLOG2 ***/
